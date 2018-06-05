@@ -1,0 +1,2 @@
+# PHP, MySQL & Stripe API Payment App #
+This application was built with the use of tutorial, which was made by [BRAD TRAVERSY](http://www.traversymedia.com), and can be accessed [here](https://www.youtube.com/watch?v=EildM6OMcoQ&list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca).
